@@ -23,7 +23,7 @@ public class TestJdbc {
  
 	try {
 		connection = DriverManager
-		.getConnection("jdbc:mysql://192.168.175.209:3306/konakart","root", "dbroot");
+		.getConnection("jdbc:mysql://192.168.175.77:3306/konakart","root", "dbroot");
  
 	} catch (SQLException e) {
 		System.out.println("Connection Failed! Check output console");
