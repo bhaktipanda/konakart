@@ -28,9 +28,7 @@
 							<a href="Welcome.action" id="continue-button" class="button small-rounded-corners"><span><kk:msg  key="common.close"/></span></a>
 						</div>
 			    	</div>
-					<div> 
-					<button name="aaa"> </button>
-					</div>
+
 	    		</div>
 
 

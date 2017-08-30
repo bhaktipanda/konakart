@@ -45,9 +45,7 @@
 								<div class="form-section-title">
 									<h3><kk:msg  key="address.book.body.primaryaddress"/></h3>							
 								</div>
-								<div>
-								<button name="qqq" ></button>
-								</div>
+								
 								<div class="addr-book-header">
 									<div class="addr-book-explanation">
 										<kk:msg  key="address.book.body.addrexplanation"/>
