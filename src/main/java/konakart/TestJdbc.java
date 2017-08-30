@@ -10,7 +10,7 @@ public class TestJdbc {
  
 	System.out.println("-------- MySQL JDBC Connection Testing ------------");
 	  
-	System.out.println("-------- MySQL JDBC Connection Testing 1------------");
+	System.out.println("-------- MySQL JDBC Connection Testing  1246569------------");
  
 	try {
 		Class.forName("com.mysql.jdbc.Driver");
